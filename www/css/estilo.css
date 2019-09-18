@@ -1,11 +1,16 @@
 #imagem{
   background-repeat: no-repeat;
   background-size: 100%;
-  margin-bottom: 70px;
+  margin-bottom: 200px;
 }
 
 #botao{
-  margin-top: 450px;
+  margin-top: 10px;
   height: 50px;
   background-color: black;
+}
+
+#map{
+  width: 395px;
+  height: 720px;
 }
